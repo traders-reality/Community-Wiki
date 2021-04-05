@@ -6,3 +6,7 @@ To submit your content to the Wiki, please submit it as a PR. I will then move i
 
 Thanks
 C
+
+## Terminology
+## How to guides
+## Example content
